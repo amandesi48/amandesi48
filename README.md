@@ -1,65 +1,86 @@
-⚡ AMANJIT SINGH ⚡
+# 👨‍💻 Amanjit Singh
 
-Desarrollador Multiplataforma (DAM) & Técnico Informático (SMR)
+### Desarrollador Multiplataforma (DAM) | Técnico en Sistemas Microinformáticos y Redes (SMR)
 
-┌────────────────────────────────────────────────────────────────────────┐
-│  🎓 Estudiante de DAM | 📜 Técnico SMR Titulado                        │
-│  📍 Torre Pacheco / Cartagena, Murcia, España                          │
-└────────────────────────────────────────────────────────────────────────┘
+📍 Torre Pacheco / Cartagena, Murcia, España  
+🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)  
+📜 Técnico en Sistemas Microinformáticos y Redes (SMR)
 
+---
 
-🚀 Sobre Mí
+## 🚀 Sobre mí
 
-► 🎓 Formación  :: Grado Superior DAM (En curso) + Grado Medio SMR (Titulado)
-► 💼 Experiencia:: Soporte Técnico GLPI, Servidores, Cableado Redes y Desarrollo Web/Apps
-► 💬 Idiomas    :: Español (Fluido) • Inglés (B2 Competencia Profesional)
-► 🚗 Otros      :: Carnet B • Beneficiario Garantía Juvenil • Disponibilidad Inmediata
+Soy técnico informático titulado en **Sistemas Microinformáticos y Redes (SMR)** y estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, con interés en el desarrollo de software, la administración de sistemas y la ciberseguridad.
 
+Me gusta aprender nuevas tecnologías, resolver problemas técnicos y desarrollar soluciones eficientes, seguras y funcionales. Busco oportunidades profesionales donde pueda aplicar mis conocimientos, adquirir experiencia y seguir creciendo en el sector tecnológico.
 
-🛠️ Tecnologías y Stack Técnico
+- 💻 **Desarrollo:** programación, aplicaciones y desarrollo web.
+- 🖥️ **Sistemas:** administración, configuración y mantenimiento.
+- 🌐 **Redes:** cableado estructurado, configuración y resolución de incidencias.
+- 🛠️ **Soporte técnico:** gestión de incidencias mediante GLPI.
+- 🌍 **Idiomas:** español fluido e inglés B2.
+- 🚗 **Otros:** carnet de conducir B, beneficiario del Sistema Nacional de Garantía Juvenil y disponibilidad inmediata.
 
-💻 Lenguajes y Scripting
+---
 
- Python
+## 🛠️ Tecnologías y herramientas
 
- Java
+### 💻 Lenguajes de programación y scripting
 
- JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,bash" alt="Python, Java, JavaScript y Bash" />
+</p>
 
- Bash / Scripting
+### 🌐 Desarrollo web
 
-🌐 Frontend y Web
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML5, CSS3 y JavaScript" />
+</p>
 
- HTML5
+### 🖥️ Sistemas operativos y redes
 
- CSS3
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker" alt="Linux, Windows y Docker" />
+</p>
 
- JS (Javascript Web)
+- Administración y uso de sistemas Linux.
+- Gestión y mantenimiento de sistemas Windows.
+- Configuración y montaje de servidores.
+- Instalación y mantenimiento de cableado estructurado.
+- Diagnóstico y resolución de problemas informáticos.
 
-🖥️ Sistemas y Redes
+### ⚙️ DevOps, control de versiones y soporte técnico
 
- Linux Comandos / Terminal
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker" alt="Git, GitHub y Docker" />
+</p>
 
- Windows Server / Sistemas
+- **Git y GitHub:** control de versiones y gestión de repositorios.
+- **Docker:** contenedores y entornos de desarrollo.
+- **GLPI:** gestión de incidencias y soporte técnico.
 
- Montaje de Servidores
+---
 
- Cableado Estructurado de Red
+## 📊 Actividad en GitHub
 
-⚙️ DevOps, Control de Versiones y Soporte Técnico
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+</p>
 
- Docker
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados" />
+</p>
 
- Git
+---
 
- GitHub
+## 📩 Contacto
 
- GLPI (Soporte Técnico y Ticketing)
+- 📧 **Email:** [amanjit.singh@colegiomiralmonte.es](mailto:amanjit.singh@colegiomiralmonte.es)
+- 📍 **Ubicación:** Torre Pacheco / Cartagena, Murcia, España.
+- 💼 **GitHub:** [Mi perfil de GitHub](https://github.com/TU_USUARIO)
 
-📊 Estadísticas de GitHub
+---
 
-📩 Contacto
-
-📧 Correo electrónico: amanjit.singh@colegiomiralmonte.es
-
-📍 Ubicación: Torre Pacheco / Cartagena (Murcia, España)
+<p align="center">
+  <i>Construyendo soluciones, aprendiendo nuevas tecnologías y creciendo como desarrollador.</i>
+</p>
